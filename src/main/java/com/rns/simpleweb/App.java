@@ -1,4 +1,4 @@
-package com.rns.app;
+package com.rns.simpleweb;
 
 /**
  * Hello world!
